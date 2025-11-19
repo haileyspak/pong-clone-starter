@@ -46,6 +46,7 @@
     {"id":{"name":"spr_ball","path":"sprites/spr_ball/spr_ball.yy",},},
     {"id":{"name":"spr_paddle","path":"sprites/spr_paddle/spr_paddle.yy",},},
     {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},},
+    {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
